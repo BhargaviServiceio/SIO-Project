@@ -13,7 +13,7 @@
         <name>SIO Client Script</name>
         <order/>
         <script><![CDATA[function onLoad() {
-alert('This is alert from Studio');   
+alert('This is alert from Studio to GitHub');   
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
